@@ -1,1 +1,6 @@
+# Exclude large or raw files from GitHub Repo context
+1-doc-paths-knowledge-base/datasets/raw-data/
+*.Rproj.user
+*.Rhistory
+.RData
 .DS_Store
