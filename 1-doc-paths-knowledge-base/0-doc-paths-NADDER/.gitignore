@@ -1,0 +1,11 @@
+# macOS metadata
+.DS_Store
+
+# Obsidian session state (volatile)
+.obsidian/workspace.json
+
+# Obsidian cache
+.obsidian/cache/
+
+# Optional: if you never want logs or temp files
+.obsidian/logs/

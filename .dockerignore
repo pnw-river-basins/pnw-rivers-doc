@@ -1,0 +1,6 @@
+# Exclude large or raw files from Docker build context
+1-doc-paths-knowledge-base/datasets/raw-data/
+*.Rproj.user
+*.Rhistory
+.RData
+
